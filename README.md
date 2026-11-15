@@ -28,7 +28,7 @@ This profile highlights a secondary analysis of the **PIC pediatric intensive ca
 
 ![三组模型的入模测量特征重要性排序](https://pic-information-sources-2026.robust-heron-5196.chatgpt.site/feature_importance.png)
 
-**Explore:** [交互式研究网页](https://pic-information-sources-2026.robust-heron-5196.chatgpt.site/) · [中文 PDF 报告](https://pic-information-sources-2026.robust-heron-5196.chatgpt.site/report.pdf) · [主分析代码](https://pic-information-sources-2026.robust-heron-5196.chatgpt.site/analysis.py) · [XGBoost 代码](https://pic-information-sources-2026.robust-heron-5196.chatgpt.site/xgboost_robustness.py)
+**Explore:** [交互式研究网页](https://pic-information-sources-2026.robust-heron-5196.chatgpt.site/) · [中文 PDF 报告](./report.pdf) · [主分析代码](https://pic-information-sources-2026.robust-heron-5196.chatgpt.site/analysis.py) · [XGBoost 代码](https://pic-information-sources-2026.robust-heron-5196.chatgpt.site/xgboost_robustness.py)
 
 ### 数据与学术归属
 
