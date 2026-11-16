@@ -1,4 +1,4 @@
-# CMSscu
+# CMS-bjmu
 
 ### Health data science · Reproducible clinical prediction
 
