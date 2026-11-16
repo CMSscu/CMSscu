@@ -24,7 +24,7 @@ This profile highlights a secondary analysis of the **PIC pediatric intensive ca
 | 实验室检查 | 0.721 / 0.213 | 0.738 / 0.213 |
 | 两类信息结合 | 0.713 / 0.192 | 0.781 / 0.229 |
 
-两种算法均显示联合模型优于仅使用床旁数据的模型。联合模型与实验室模型的排序因算法而异：逻辑回归中实验室模型的点估计较高，XGBoost 中联合模型的 AUROC 较高。因此，信息增量的结论具有**算法敏感性**，不能概括为与模型无关。模型表现用于评价预测价值，不代表因果效应。
+两种算法均显示联合模型优于仅使用床旁数据的模型。联合模型与实验室模型的排序因算法而异：逻辑回归中实验室模型的点估计较高，XGBoost 中联合模型的 AUROC 较高。因此，信息增量的结论具有**算法敏感性**。
 
 ![三组模型的入模测量特征重要性排序](https://pic-information-sources-2026.robust-heron-5196.chatgpt.site/feature_importance.png)
 
