@@ -1,4 +1,4 @@
-# CMS-bjmu
+# CMS-python
 
 ### Health data science · Reproducible clinical prediction
 
